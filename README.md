@@ -1,6 +1,6 @@
 # MyReads React Project
 
-JKMagnussen
+The Running Website https://pappu-reads-a-book-tracking-app.netlify.app/
 
 This is my final assessment project for Udacity's React Fundamentals course.
 
